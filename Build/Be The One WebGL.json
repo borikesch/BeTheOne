@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Be number one",
+"dataUrl": "Be The One WebGL.data.unityweb",
+"wasmCodeUrl": "Be The One WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Be The One WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
